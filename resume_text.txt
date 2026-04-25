@@ -1,0 +1,45 @@
+ 
+Kanuri Durga Prasad 
+k.durgaprasad2382@gmail.com | (+91) 9398235300 
+@KanuriDurgaPrasad                                                                                                             /Kanuri Durga Prasad  
+SKILLS 
+❖ MERN Stack development, Java Full stack developer, Frontend development 
+❖ React JS, Java, Spring boot, Java Script, Node JS, Express JS, Mongo DB, HTML, CSS 
+❖ Python, C++, C programming, DSA (Intermediate) 
+EDUCATION 
+❖ Electronics and Communication engineering| Pragati engineering College             
+CGPA:  6.8 | (July 2020 - Present) 
+❖ XII (State Board) | Narayana Junior College                                 95%| 2020     
+EXPERIENCE 
+❖ Infosys | Specialist Programmer                       (2024 November - Present) 
+Completed Java Full Stack training at Infosys as a Specialist Programmer, mastering 
+backend, frontend, and database development. Built an E‑Pharmacy application 
+using Java, Spring Boot, React, and TypeScript, delivering end‑to‑end functionality 
+with scalable, responsive, and high‑performance solutions. 
+❖ NxtWave | MERN Stack Trainee (Apprenticeship)        (2021 September – 2024 April) 
+  During my time at NxtWave, I gained hands on experience in MERN stack 
+development by working on real-world projects. I have built E-commerce website 
+and NxtWatch project applications as my training program. 
+PROJECTS 
+❖ Epharmacy | Java Full stack project (Infosys) 
+Developed an E‑Pharmacy web app for browsing and purchasing medicines online, 
+offering a seamless online solution. Built with Spring Boot Microservices and React 
+with TypeScript, ensuring a scalable, responsive, and high‑performance experience. 
+❖ NxtWatch Application | YouTube Clone  
+As part of my MERN stack development course at NxtWave, I successfully deployed 
+the NxtWatch application using ReactJS. I utilized NxtWave custom Restful APIs. 
+❖ Nxt Trendz | E-commerce Application  
+As part of my MERN stack development course at NxtWave, I successfully deployed 
+the Nxt Trendz application using React JS and Restful APIs. 
+POSITION OF RESPONSIBILITY 
+❖ Level‑1 First Aid Trainee, Indian Red Cross Society                                           (2019 May) 
+  Completed professional First Aid training covering emergency response practices and 
+earned certification from the Indian Red Cross Society. 
+ACHIEVEMENTS / HOBBIES 
+• Participated in SMART INDIA HACKATHON 2022. I successfully contributed to a  
+Level-2 project focused on VR Medical Education. 
+• National Gold medal winner at 10th National Goju-Ryu Karate Championship-2013. 
+• Founded 'Learninverse' YouTube channel on career platforms, achieving 75k+ views. 
+• Freelance video editor with experience working for over 15 clients. 
+• Passionate about fitness and regularly attend the gym to maintain a healthy lifestyle. 
+
